@@ -46,7 +46,7 @@ Her 4 problems for our app:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To be the fastest way for audiences to discover and follow high-quality, short-form dramas, while giving studios a trusted, curated distribution platform built around storytelling, not virality.
 
 ## User Requirements
 
