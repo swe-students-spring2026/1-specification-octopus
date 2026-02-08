@@ -41,7 +41,7 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
    Too many ads or forced cliffhangers get frustrating after a while and will deviate users like Clare. She said she doesn't like apps like that and quickly deletes them.
 
 
-#### Stakeholder Interview 2 - Secondary Users: The Platform Owner
+#### Stakeholder Interview 2 - The Platform Owner/Admin
 I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDrama, an early-stage startup, exploring a short-drama platform concept. As a prospective platform owner, Jessica has closely observed existing short-drama products in the U.S. market and talked about her opionion on what is currently missing.
 
 **Her key needs for the platform:**
@@ -76,7 +76,28 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+### Primary Users - Viewers (Audience)
+
+**Discovery & Watching**
+1. As a viewer, I want to scroll through recommended dramas so that I can discover contents I like without having to search.
+2. As a viewer, I want to feel emotionally engaged within the first few seconds of a drama so that I know whether it is worth continuing.
+3. As a viewer, I want to filter dramas by genre so that I can quickly find stories that match my interests.
+4. As a viewer, I want to see what dramas are trending so that I know what other people are enjoying, and more likely to trust the quality of this drama.
+5. As a viewer, I want to watch episodes in sequence so that I can follow a story like a TV series.
+
+**Engagement & Retention**
+6. As a viewer, I want to save dramas to a watchlist and categorize them so I can return to them later.
+7. As a viewer, I want the app to remember where I stopped watching so that I can continue seamlessly.
+8. As a viewer, I want to like and comment on dramas so that I can express my reactions.
+9. As a viewer, I want to follow creators or actors so that I can easily find their future work, and seeing related posts/videos about them.
+10. As a viewer, I want to receive recommendations based on what I watch so that the app feels personalized.
+
+**Monetization & Access**
+11. As a viewer, I want to clearly understand what content is free and what is paid so that I don't feel tricked.
+12. As a viewer, I want to be able to buy the merchant I want if I see something that's attractive in the video.
+13. As a viewer, I want subscriptions to be easy to start and able to cancel it whenever I feel like it.
+14. As a viewer, I want minimal ads during viewing so that my immersion is not constantly broken.
+
 
 ## Activity Diagrams
 
