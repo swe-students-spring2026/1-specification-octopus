@@ -76,27 +76,44 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 
 ## User Requirements
 
-### Primary Users - Viewers (Audience)
+#### Consumers (Audience) – People who watch content on the platform
 
-**Discovery & Watching**
-1. As a viewer, I want to scroll through recommended dramas so that I can discover contents I like without having to search.
-2. As a viewer, I want to feel emotionally engaged within the first few seconds of a drama so that I know whether it is worth continuing.
-3. As a viewer, I want to filter dramas by genre so that I can quickly find stories that match my interests.
-4. As a viewer, I want to see what dramas are trending so that I know what other people are enjoying, and more likely to trust the quality of this drama.
-5. As a viewer, I want to watch episodes in sequence so that I can follow a story like a TV series.
+1. As a consumer, I want to watch short dramas that feel emotionally engaging so that I feel invested
+2. As a consumer, I want to pause and resume episodes so that I don’t lose my place
+3. As a consumer, I want to scroll through recommended dramas so that I don’t have to search
+4. As a consumer, I want the app to show me strong openings first so that I can quickly decide what to watch
+5. As a consumer, I want discovery to feel curated so that I don’t feel overwhelmed
+6. As a consumer, I want recommendations to improve over time so that the app understands my taste
+7. As a consumer, I want high-quality video so that the experience feels premium
+8. As a consumer, I want to subscribe/follow a series/creator so that I don’t miss future content
+9. As a consumer, I want to save shows/videos for later so that I can return to them
+10. As a consumer, I want ads to feel minimal so that they don’t interrupt storytelling
 
-**Engagement & Retention**
-6. As a viewer, I want to save dramas to a watchlist and categorize them so I can return to them later.
-7. As a viewer, I want the app to remember where I stopped watching so that I can continue seamlessly.
-8. As a viewer, I want to like and comment on dramas so that I can express my reactions.
-9. As a viewer, I want to follow creators or actors so that I can easily find their future work, and seeing related posts/videos about them.
-10. As a viewer, I want to receive recommendations based on what I watch so that the app feels personalized.
+#### Creators – People or teams who upload and manage drama content
 
-**Monetization & Access**
-11. As a viewer, I want to clearly understand what content is free and what is paid so that I don't feel tricked.
-12. As a viewer, I want to be able to buy the merchant I want if I see something that's attractive in the video.
-13. As a viewer, I want subscriptions to be easy to start and able to cancel it whenever I feel like it.
-14. As a viewer, I want minimal ads during viewing so that my immersion is not constantly broken.
+1. As a creator, I want to upload short-form dramas so that audiences can watch my work
+2. As a creator, I want to edit or update my content so that I can maintain quality
+3. As a creator, I want to remove content if needed so that outdated work is not shown
+4. As a creator, I want a profile page so that users can follow my work
+5. As a creator, I want feedback from audiences so that I can understand what works
+6. As a creator, I want to earn revenue from my content so that creating is sustainable.
+7. As a creator, I want to organize episodes into series so that stories feel complete.
+8. As a creator, I want users to easily discover my other projects so that engagement grows.
+9. As a creator, I want the platform to support long-term series so that I can build loyalty.
+10. As a creator, I want my content to feel intentionally presented so that it stands out.
+
+#### Platform Owners (Administrators) – People who curate content, manage the ecosystem, and run the platform
+
+1. As a platform owner, I want to manage all content so that quality standards are upheld
+2. As a platform owner, I want to approve or remove content so that the platform stays curated
+3. As a platform owner, I want to manage user roles so that permissions are clear
+4. As a platform owner, I want to support multiple content types so that the platform can expand
+5. As a platform owner, I want to highlight high-quality dramas so that audiences trust the platform
+6. As a platform owner, I want discovery to feel selective so that storytelling is prioritized
+7. As a platform owner, I want users to easily return to past content so that retention increases
+8. As a platform owner, I want the app to feel entertaining so that users stay longer
+9. As a platform owner, I want monetization to be seamless so that viewing is not disrupted
+10. As a platform owner, I want to avoid over-monetization so that users are retained long-term
 
 
 ## Activity Diagrams
