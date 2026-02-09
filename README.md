@@ -3,20 +3,25 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
+
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile. (delete line when done)
 
 [Adam Soliman](https://github.com/adamsolimancs/)
 
 [Antonio Jackson](https://github.com/antoniojacksnn)
 
+[Bryce Lin](https://github.com/blin03)
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 #### Stakeholder Interview 1 - Primary Users: Consumers (the audience)
+
 I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying entertainment & arts, about our mobile application. She studies a related topic and is a frequent TV and film watcher. Below are the main takeaways from our interview.
 
 **Her 4 needs for our app:**
+
 1. Attention grabbing hooks  
    Being able to feel something emotional / engaging within the first 15-30 seconds of an opening.
 
@@ -29,6 +34,7 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
 4. High quality / production clips
 
 **Her 4 problems for our app:**
+
 1. Existing platforms feel weak  
    Quality is either too low or feel rushed. Quibi felt this way to Clare.
 
@@ -41,14 +47,13 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
 4. Over-monetization  
    Too many ads or forced cliffhangers get frustrating after a while and will deviate users like Clare. She said she doesn't like apps like that and quickly deletes them.
 
-
 #### Stakeholder Interview 2 - The Platform Owner/Admin
+
 I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDrama, an early-stage startup, exploring a short-drama platform concept. As a prospective platform owner, Jessica has closely observed existing short-drama products in the U.S. market and talked about her opionion on what is currently missing.
 
 **Her key needs for the platform:**
 
 1. Curated discovery over overwhelming feeds
-
    - She wants "content to feel selected and intentional", rather than "aggressively pushed or visually overwhelming like many existing short-drama apps".
 
 2. Strong creator–audience ecosystem
@@ -69,7 +74,6 @@ I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDram
    - Many current short-drama apps prioritize volume over quality, leading to user fatigue.
 
 2. Over terrible UIUX that forbids her from finding good contents she likes.
-
 
 ## Product Vision Statement
 
@@ -116,11 +120,10 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 9. As a platform owner, I want monetization to be seamless so that viewing is not disrupted
 10. As a platform owner, I want to avoid over-monetization so that users are retained long-term
 
-
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Wireframe](https://www.figma.com/design/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=0-1&p=f&t=GbLbHDdTEk0a9MmH-0)
