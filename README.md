@@ -99,19 +99,6 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 9. As a creator, I want the platform to support long-term series so that I can build loyalty.
 10. As a creator, I want my content to feel intentionally presented so that it stands out.
 
-#### Platform Owners (Administrators) – People who curate content, manage the ecosystem, and run the platform
-
-1. As a platform owner, I want to manage all content so that quality standards are upheld
-2. As a platform owner, I want to approve or remove content so that the platform stays curated
-3. As a platform owner, I want to manage user roles so that permissions are clear
-4. As a platform owner, I want to support multiple content types so that the platform can expand
-5. As a platform owner, I want to highlight high-quality dramas so that audiences trust the platform
-6. As a platform owner, I want discovery to feel selective so that storytelling is prioritized
-7. As a platform owner, I want users to easily return to past content so that retention increases
-8. As a platform owner, I want the app to feel entertaining so that users stay longer
-9. As a platform owner, I want monetization to be seamless so that viewing is not disrupted
-10. As a platform owner, I want to avoid over-monetization so that users are retained long-term
-
 
 ## Activity Diagrams
 
