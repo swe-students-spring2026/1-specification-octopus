@@ -3,9 +3,6 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile. (delete line when done)
-
 [Adam Soliman](https://github.com/adamsolimancs/)
 
 [Antonio Jackson](https://github.com/antoniojacksnn)
@@ -13,8 +10,6 @@ See instructions. Delete this line and replace with a list of the names of your 
 [Bryce Lin](https://github.com/blin03)
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 #### Stakeholder Interview 1 - Primary Users: Consumers (the audience)
 
@@ -93,6 +88,10 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 8. As a consumer, I want to subscribe/follow a series/creator so that I don’t miss future content
 9. As a consumer, I want to save shows/videos for later so that I can return to them
 10. As a consumer, I want ads to feel minimal so that they don’t interrupt storytelling
+11. As a consumer, I want captions and subtitle language options so that I can follow episodes in different environments
+12. As a consumer, I want to download episodes for offline viewing so that I can watch without internet access
+13. As a consumer, I want to share a drama or episode link with friends so that I can recommend what I enjoy
+14. As a consumer, I want clear content ratings and warnings so that I can decide whether a show fits my preferences
 
 #### Creators – People or teams who upload and manage drama content
 
@@ -106,19 +105,9 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 8. As a creator, I want users to easily discover my other projects so that engagement grows.
 9. As a creator, I want the platform to support long-term series so that I can build loyalty.
 10. As a creator, I want my content to feel intentionally presented so that it stands out.
-
-#### Platform Owners (Administrators) – People who curate content, manage the ecosystem, and run the platform
-
-1. As a platform owner, I want to manage all content so that quality standards are upheld
-2. As a platform owner, I want to approve or remove content so that the platform stays curated
-3. As a platform owner, I want to manage user roles so that permissions are clear
-4. As a platform owner, I want to support multiple content types so that the platform can expand
-5. As a platform owner, I want to highlight high-quality dramas so that audiences trust the platform
-6. As a platform owner, I want discovery to feel selective so that storytelling is prioritized
-7. As a platform owner, I want users to easily return to past content so that retention increases
-8. As a platform owner, I want the app to feel entertaining so that users stay longer
-9. As a platform owner, I want monetization to be seamless so that viewing is not disrupted
-10. As a platform owner, I want to avoid over-monetization so that users are retained long-term
+11. As a creator, I want analytics on watch time and drop-off points so that I can improve future episodes.
+12. As a creator, I want to schedule episode releases ahead of time so that I can maintain a consistent publishing cadence.
+13. As a creator, I want to manage episode metadata (titles, tags, thumbnails) so that my content is easier to discover.
 
 ## Activity Diagrams
 
