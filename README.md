@@ -7,12 +7,16 @@ A little exercise to get started with the specification phase of the software de
 
 [Antonio Jackson](https://github.com/antoniojacksnn)
 
+[Bryce Lin](https://github.com/blin03)
+
 ## Stakeholders
 
 #### Stakeholder Interview 1 - Primary Users: Consumers (the audience)
+
 I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying entertainment & arts, about our mobile application. She studies a related topic and is a frequent TV and film watcher. Below are the main takeaways from our interview.
 
 **Her 4 needs for our app:**
+
 1. Attention grabbing hooks  
    Being able to feel something emotional / engaging within the first 15-30 seconds of an opening.
 
@@ -25,6 +29,7 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
 4. High quality / production clips
 
 **Her 4 problems for our app:**
+
 1. Existing platforms feel weak  
    Quality is either too low or feel rushed. Quibi felt this way to Clare.
 
@@ -37,14 +42,13 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
 4. Over-monetization  
    Too many ads or forced cliffhangers get frustrating after a while and will deviate users like Clare. She said she doesn't like apps like that and quickly deletes them.
 
-
 #### Stakeholder Interview 2 - The Platform Owner/Admin
+
 I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDrama, an early-stage startup, exploring a short-drama platform concept. As a prospective platform owner, Jessica has closely observed existing short-drama products in the U.S. market and talked about her opionion on what is currently missing.
 
 **Her key needs for the platform:**
 
 1. Curated discovery over overwhelming feeds
-
    - She wants "content to feel selected and intentional", rather than "aggressively pushed or visually overwhelming like many existing short-drama apps".
 
 2. Strong creator–audience ecosystem
@@ -65,7 +69,6 @@ I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDram
    - Many current short-drama apps prioritize volume over quality, leading to user fatigue.
 
 2. Over terrible UIUX that forbids her from finding good contents she likes.
-
 
 ## Product Vision Statement
 
@@ -106,11 +109,10 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 12. As a creator, I want to schedule episode releases ahead of time so that I can maintain a consistent publishing cadence.
 13. As a creator, I want to manage episode metadata (titles, tags, thumbnails) so that my content is easier to discover.
 
-
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Wireframe](https://www.figma.com/design/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=0-1&p=f&t=GbLbHDdTEk0a9MmH-0)
