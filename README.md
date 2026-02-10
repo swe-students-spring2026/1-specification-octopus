@@ -126,3 +126,5 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 ## Clickable Prototype
 
 [Wireframe](https://www.figma.com/design/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=0-1&p=f&t=GbLbHDdTEk0a9MmH-0)
+
+[Prototype](https://www.figma.com/proto/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=55-28&p=f&t=cik6YuTMZMXJwvf1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=88%3A2)
