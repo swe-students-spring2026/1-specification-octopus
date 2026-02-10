@@ -11,6 +11,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Sara Dou](https://github.com/SaraD-666)
 
+[Rohan Ahmad](https://github.com/ra4059)
 ## Stakeholders
 
 #### Stakeholder Interview 1 - Primary Users: Consumers (the audience)
@@ -125,3 +126,5 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 ## Clickable Prototype
 
 [Wireframe](https://www.figma.com/design/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=0-1&p=f&t=GbLbHDdTEk0a9MmH-0)
+
+[Prototype](https://www.figma.com/proto/1opJoQBT4yguU6MudvwKvA/octopus-wireframe?node-id=55-28&p=f&t=cik6YuTMZMXJwvf1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=88%3A2)
