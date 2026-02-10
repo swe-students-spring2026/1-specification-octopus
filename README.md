@@ -11,6 +11,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Sara Dou](https://github.com/SaraD-666)
 
+[Rohan Ahmad](https://github.com/ra4059)
 ## Stakeholders
 
 #### Stakeholder Interview 1 - Primary Users: Consumers (the audience)
