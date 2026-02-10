@@ -42,33 +42,39 @@ I (Adam Soliman) interviewed Clare Dong, a Drexel University student studying en
 4. Over-monetization  
    Too many ads or forced cliffhangers get frustrating after a while and will deviate users like Clare. She said she doesn't like apps like that and quickly deletes them.
 
-#### Stakeholder Interview 2 - The Platform Owner/Admin
 
-I (Sara Dou) interviewed Jessica Xiao, an NYU student and co-founder of SnapDrama, an early-stage startup, exploring a short-drama platform concept. As a prospective platform owner, Jessica has closely observed existing short-drama products in the U.S. market and talked about her opionion on what is currently missing.
+#### Stakeholder Interview 2 - Creators (Content Producers)
+I (Antonio Jackson) interviewed Taylor Golden, a digital content creator who produces episodic advice videos across platforms such as TikTok, Instagram Reels, and YouTube Shorts. His content focuses on short, practical advice delivered in series-based formats, where individual videos build on one another over time. Taylor has experience growing an audience through consistent posting and has firsthand experience with the limitations of existing short-form platforms.
 
-**Her key needs for the platform:**
+**His key needs as a creator:**
 
-1. Curated discovery over overwhelming feeds
-   - She wants "content to feel selected and intentional", rather than "aggressively pushed or visually overwhelming like many existing short-drama apps".
+1. Support for episodic content
 
-2. Strong creator–audience ecosystem
-   - Beyond watching dramas, she believes a successful platform should support "interaction between creators, actors, studios, and audiences to build long-term community value".
+   - Taylor wants a platform where advice videos can be clearly organized into series. He explained that “most apps treat every video like it’s on its own," even when the advice only makes sense as a sequence.
 
-3. Multiple entertainment content under one platform
-   - She is interested in a platform that can eventually host different forms of entertainment content (e.g., dramas, novels, animation), rather than being limited to a single format
+2. Easy ways for audiences to follow creators
+   - He emphasized the importance of creator visibility, saying that if someone likes one of his videos, there should be a clear way for them to follow him and find the rest.
 
-4. Integrated monetization that feels natural
-   - She sees potential in commerce and additional revenue streams, but emphasizes that "transactions should be seamless and not interrupt the viewing experience."
+3. Retention-focused design
+   - Taylor values features that help viewers return to earlier videos. He noted that “advice content works best when people can come back to it later, not just watch once and forget.”
 
-5. Retention-driven user experience
-   - She believes users should always be able to easily return to previously watched or in-progress content, reducing friction and encouraging users to "stay in the app for as long as possible."
+4. Clean and focused presentation
+   - He wants his videos to feel professional and distraction-free, stating that the advice should be the focus, not pop-ups or cluttered interfaces. 
 
-**Her main concerns with existing platforms:**
+5. Sustainable monetization
+   - Taylor is interested in earning from his content without sacrificing quality. He said that “I don’t want to change how I give advice just to make ads fit better.”
 
-1. Poor pacing and content overload
-   - Many current short-drama apps prioritize volume over quality, leading to user fatigue.
+**His main problems with existing platforms:**
 
-2. Over terrible UIUX that forbids her from finding good contents she likes.
+1. Poor organization of advice content
+   - Taylor finds it frustrating that there’s no good way to guide people through earlier episodes, so they miss half the context.
+
+2. Weak creator–audience connection
+   - Taylor feels disconnected from his audience, saying that “it’s hard to build a relationship when people only see one random clip.”
+
+3. Algorithms prioritize trends over usefulness
+   - He explained that “platforms reward whatever’s new or flashy, even if it’s not actually helpful.”
+
 
 ## Product Vision Statement
 
