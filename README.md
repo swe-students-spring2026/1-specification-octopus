@@ -109,7 +109,8 @@ To be the fastest way for audiences to discover and follow high-quality, short-f
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Creator screenshot](images/Consumer_UML.png)
+![UML Consumer screenshot](images/Creator_UML.png)
 
 ## Clickable Prototype
 
